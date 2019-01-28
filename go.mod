@@ -1,4 +1,4 @@
-module github.com/graniticio/granitic-yaml
+module github.com/rohitrox/granitic-yaml
 
 require (
 	github.com/graniticio/granitic v1.3.0-pre1
